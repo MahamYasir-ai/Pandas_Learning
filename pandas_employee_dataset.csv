@@ -1,0 +1,13 @@
+employee_id,name,department,age,salary_pkr,years_experience,performance_score,city,remote
+1001,Ayesha Khan,Sales,24.0,65000.0,1.0,3.8,Karachi,No
+1002,Bilal Ahmed,IT,29.0,95000.0,5.0,4.5,Lahore,Yes
+1003,Sara Malik,HR,,72000.0,3.0,4.1,Karachi,No
+1004,Usman Ali,IT,35.0,,8.0,,Islamabad,Yes
+1005,Hina Shah,Finance,27.0,88000.0,,4.7,Lahore,No
+1006,Hamza Raza,Sales,31.0,68000.0,4.0,3.6,,
+1007,Noor Fatima,,26.0,70000.0,2.0,4.0,Karachi,Yes
+1008,Daniyal Iqbal,Marketing,,81000.0,6.0,4.2,Peshawar,Yes
+1009,Mariam Tariq,HR,30.0,,7.0,4.4,Islamabad,No
+1010,Zain Abbas,Finance,42.0,125000.0,15.0,4.8,Karachi,No
+1011,Laiba Noor,IT,23.0,78000.0,1.0,,Lahore,Yes
+1012,Omar Siddiqui,Marketing,34.0,90000.0,,4.1,Quetta,Yes
